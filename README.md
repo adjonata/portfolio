@@ -1,75 +1,23 @@
-# Nuxt Minimal Starter
+# 🎨 Portfólio
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Bem-vindo ao meu repositório! Este espaço reúne projetos que destacam minha experiência como desenvolvedor frontend.
+
+## 🛠️ O que você encontrará aqui
+
+- **Projetos reais em que participei**: Interfaces funcionais e atraentes.
+- **Tecnologias modernas**: Informações sobre as tecnologias em que utilizei ao longo dos anos.
+- **Compromisso com qualidade**: Código limpo, acessível e otimizado para performance.
+
+## 🌟 Por que explorar este repositório?
+
+Cada projeto demonstra meu foco em inovação e qualidade.
+Sinta-se à vontade para explorar os projetos e, caso tenha interesse em contratar, entre em contato. 🚀
 
 ## Setup
 
-Make sure to install dependencies:
-
 ```bash
-# npm
+# Make sure to install dependencies:
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
+# Start the development server on `http://localhost:3000`:
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
