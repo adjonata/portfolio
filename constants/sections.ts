@@ -20,7 +20,7 @@ export const sections = {
   },
   technologies: {
     title: "Conhecimentos",
-    subtitle: "Confira as tecnologias em que tenho domínio",
+    subtitle: "Confira as tecnologias em que tenho experiência",
     icon: "material-symbols:book-2-outline",
     id: "technologies",
   },
