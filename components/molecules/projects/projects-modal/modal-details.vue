@@ -7,8 +7,8 @@ const props = defineProps<{
 }>();
 </script>
 <template>
-  <div class="w-full grid grid-cols-12 items-start gap-8 p-8">
-    <div class="col-span-8 flex flex-col gap-4">
+  <div class="w-full grid grid-cols-1 lg:grid-cols-12 items-start gap-8 p-8">
+    <div class="col-span-1 lg:col-span-8 flex flex-col gap-4">
       <h2 class="text-2xl font-bold text-zinc-100">{{ props.title }}</h2>
       <p class="text-zinc-300 text-md">{{ props.description }}</p>
       <div v-if="props.link">
@@ -22,7 +22,7 @@ const props = defineProps<{
         </a>
       </div>
     </div>
-    <div class="col-span-4 flex items-start flex-wrap gap-2">
+    <div class="col-span-1 lg:col-span-4 flex items-start flex-wrap gap-2">
       <span
         v-for="tech in props.technologies"
         :key="tech.name"
