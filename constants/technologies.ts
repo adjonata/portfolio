@@ -39,6 +39,7 @@ type TechnologiesNames =
   | "figma"
   | "vsCode"
   | "clickup"
+  | "supabase"
   | "jira";
 
 export const technologies: Record<TechnologiesNames, Technology> = {
@@ -65,6 +66,14 @@ export const technologies: Record<TechnologiesNames, Technology> = {
       "Biblioteca para construção de interfaces de usuário baseada em componentes.",
     website: "https://react.dev/",
     color: "#61dafb",
+  },
+  supabase: {
+    image: getImageUrl("supabase.png"),
+    name: "Supabase",
+    description:
+      "Supabase é uma alternativa open source ao Firebase, que oferece banco de dados PostgreSQL, autenticação, storage e APIs em tempo real — ideal para criar backends modernos de forma rápida e eficiente.",
+    website: "https://supabase.com/",
+    color: "#3ecf8e",
   },
   next: {
     image: getImageUrl("nextjs.png"),
@@ -307,6 +316,7 @@ export const technologiesCategories: TechnologyCategory[] = [
       technologies.express,
       technologies.nest,
       technologies.sequelize,
+      technologies.supabase,
       technologies.mongodb,
       technologies.postgresql,
       technologies.jwt,
