@@ -3,14 +3,14 @@ import { sections } from "~/constants/sections";
 </script>
 
 <template>
-  <AtomsSection
+  <!-- <AtomsSection
     :title="sections.experiences.title"
     :subtitle="sections.experiences.subtitle"
     :id="sections.experiences.id"
     :icon="sections.experiences.icon"
   >
     <MoleculesExperiencesList />
-  </AtomsSection>
+  </AtomsSection> -->
 </template>
 
 <style lang="scss" scoped></style>
