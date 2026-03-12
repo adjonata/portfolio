@@ -1,5 +1,5 @@
 const defaultSeo = {
-  ogImage: "https://alexdjonata.site/avatar.jpg",
+  ogImage: "https://alexdjonata.work/avatar.jpg",
   robots: "index, follow",
   ogLocale: "pt_BR",
 };
