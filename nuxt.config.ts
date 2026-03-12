@@ -27,13 +27,13 @@ export default defineNuxtConfig({
         {
           rel: "icon",
           type: "image/png",
-          href: "https://alexdjonata.site/favicon.png",
+          href: "https://alexdjonata.work/favicon.png",
         },
       ],
     },
   },
   site: {
-    url: "https://alexdjonata.site",
+    url: "https://alexdjonata.work",
     name: "Portfólio - Alex Djonata",
   },
 });
