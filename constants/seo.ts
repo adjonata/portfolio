@@ -9,7 +9,7 @@ export const homeSeo = {
   title: `Portfólio - Alex Djonata`,
   ogTitle: `Portfólio - Alex Djonata`,
   description:
-    "Conheça minhas experiências como desenvolvedor frontend e confira os detalhes dos projetos em que trabalhei. Caso esteja em busca de um profissional dedicado, entre em contato!",
+    "Conheça minhas experiências como desenvolvedor full stack e confira os detalhes dos projetos em que trabalhei. Caso esteja em busca de um profissional dedicado, entre em contato!",
   ogDescription:
-    "Conheça minhas experiências como desenvolvedor frontend e confira os detalhes dos projetos em que trabalhei. Caso esteja em busca de um profissional dedicado, entre em contato!",
+    "Conheça minhas experiências como desenvolvedor full stack e confira os detalhes dos projetos em que trabalhei. Caso esteja em busca de um profissional dedicado, entre em contato!",
 };
